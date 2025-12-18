@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Sultan</h1>
-<h3 align="center">I'm a passionate software developer and competitive programmer with a love for solving complex problems and building innovative solutions.</h3>
+<!-- <h3 align="center">I'm a passionate software developer and competitive programmer with a love for solving complex problems and building innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alan-sultan&label=Profile%20views&color=0e75b6&style=flat" alt="alan-sultan" /> </p>
 
@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alan-sultan&show_icons=true&locale=en&theme=gruvbox" alt="alan-sultan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alan-sultan&theme=gruvbox" alt="alan-sultan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alan-sultan&theme=gruvbox" alt="alan-sultan" /></p> -->
